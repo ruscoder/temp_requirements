@@ -7,7 +7,7 @@ celery-haystack==0.10
 closure==20150315
 cssmin==0.2.0
 dj-database-url==0.4.0
-Django==1.8.9
+Django==2.2.24
 django-admin-sortable2==0.6.3
 django-analytical==2.0.0
 django-annoying==0.8.7
